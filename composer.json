@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/user-bundle",
+    "name": "codekedev/user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSUserBundle",
     "keywords": [
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Christophe Coevoet",
-            "email": "stof@notk.org"
+            "name": "Code KE",
+            "email": "dev@code.ke"
         },
         {
             "name": "Thibault Duplessis"
